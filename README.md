@@ -1,25 +1,40 @@
+
 <h1 align="center">Hi 👋, I'm Mariam Shehata</h1>
-<h3 align="center">Passionate about AI & Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariammohamedabc4-commits" alt="mariammohamedabc4-commits" /></a> </p>
+<h3 align="center">Computer Science Student | Software & Front-End Developer</h3>
 
-- 🌱 I’m currently learning **Python • Data Analysis • Machine Learning**
+Computer Science student specializing in Software at **Lotus University**, with a strong foundation in programming and software development. Advanced in **C++ and Object-Oriented Programming**, with practical experience building interactive web applications using **HTML, CSS, and JavaScript**. I am also exploring **UI/UX design** with Figma.
 
-- 💬 Ask me about **Python basics & Data Analysis fundamentals**
+🎯 Seeking a **Front-End or Software Development internship** to apply my skills and gain real industry experience.
 
-- 📫 How to reach me **linkedin.com/in/mariam-shehata-9b8a8937b**
+## 🛠️ Skills
 
-- ⚡ Fun fact **I enjoy learning new tech step by step.**
+- **Languages:** C++ (Advanced), JavaScript, C#, Python, Java
+- **Front-End:** HTML5, CSS3, JavaScript, Responsive Web Design
+- **Fundamentals:** OOP, Data Structures, Algorithms, Problem Solving
+- **Database:** SQL, Database Design
+- **Design:** Figma, UI/UX
+- **Tools:** Git, GitHub, Visual Studio Code
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/mariam-shehata-9b8a8937b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mariam-shehata-9b8a8937b" height="30" width="40" /></a>
-</p>
+## 🚀 Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Bank Management System** (C++, OOP): customer accounts (create, delete, search, display), deposits, withdrawals, and data validation.
+- **Library Management System** (C++): add, delete, search, borrow and return books, using arrays, functions, and file handling.
+- **YUM YUM Restaurant Website** (HTML, CSS, JavaScript): responsive multi-page site with an interactive menu, shopping cart, automatic totals, checkout, and order confirmation.
+- **To-Do List Web App** (Front-End): interactive task management interface.
+- **Personal Portfolio Website** (HTML, CSS, JavaScript): showcasing my skills and projects.
+- **[Datheon UI/UX Internship](https://github.com/mariammohamedabc4-commits/Datheon_UI_UX_Internship)**: Fintech wallet app designed in Figma.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mariammohamedabc4-commits"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mariammohamedabc4-commits" /></a></p><br><br>
+## 🎓 Training
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariammohamedabc4-commits&show_icons=true&locale=en&layout=compact" alt="mariammohamedabc4-commits" /></p>
+- **Programming Fundamentals Diploma**, Route IT Training Center (Jan 2026): C++, OOP, Data Structures, Algorithms, Databases. Received **Best Projects** recognition.
+- **UI/UX Design Internship**, Datheon (in progress).
+- **Intro to Web Workshop**, Comous Campus (5 days).
+
+## 🏆 Achievements
+
+- **ECPC Qualifications 2026: Honorable Mention** (Aug 19, 2026). Team Leader of "The Debuggers", with 2 problems accepted as a team.
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariam%20Shehata-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-shehata-9b8a8937b)
